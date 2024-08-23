@@ -9,6 +9,9 @@ Welcome to my GitHub profile! I'm a Computer Science graduate with a passion for
 - JavaScript
 - React.js
 - Bootstrap
+- Python
+- SQL
+- MS Office
 
 ## Connect with Me
 
