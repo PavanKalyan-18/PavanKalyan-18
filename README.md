@@ -1,4 +1,4 @@
-# Hello, I'm PavanKalyan 👋
+# Hello, I'm Pavan Kalyan 👋
 
 Welcome to my GitHub profile! I'm a Computer Science graduate with a passion for web development. Here you'll find some of my projects and contributions.
 
