@@ -1,8 +1,6 @@
 ### 💫 About Me:
 Aspiring Full Stack Developer | Skilled in JavaScript, React, and Python | Building Dynamic User Availability & Scheduling Systems | VTU Graduate with a Passion for Problem-Solving and Web Development
 
-
-🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pavan-kalyan-153449235/)
 [![mail](https://img.shields.io/badge/gmail-D14836)](mailto:pavanklyn18@gmail.com)
 
@@ -28,7 +26,9 @@ Aspiring Full Stack Developer | Skilled in JavaScript, React, and Python | Build
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-📊 GitHub Stats:
+<h3>📊 GitHub Stats: </h3>
+<br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKalyan-18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br>
 <p>
