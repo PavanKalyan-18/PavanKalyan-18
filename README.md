@@ -23,4 +23,4 @@ I enjoy building **responsive, user-friendly web applications** and continuously
 To grow as a **Frontend / Software Engineer** by working on real-world projects and contributing to impactful products.
 
 ### 📫 Let's Connect
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/pavan-kalyan-1711b43a5/
