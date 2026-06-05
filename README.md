@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Pavan Kalyan
 
-I'm an **Associate Software Engineer** with hands-on training in **Frontend Development** and **Python**.  
+I'm an **Software Engineer** with hands-on training in **Frontend Development** and **Python**.  
 I enjoy building **responsive, user-friendly web applications** and continuously improving my problem-solving skills.
 
 ### 🔧 Tech Stack
