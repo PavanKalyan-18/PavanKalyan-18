@@ -1,27 +1,82 @@
-## Hi there 👋 I'm Pavan Kalyan
+# Hi 👋, I'm Pavan Kalyan M
 
-I'm an **Software Engineer** with hands-on training in **Frontend Development** and **Python**.  
-I enjoy building **responsive, user-friendly web applications** and continuously improving my problem-solving skills.
+### Data Analyst | SQL | Excel | Python | Power BI
 
-### 🔧 Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript (ES6), jQuery, Bootstrap  
-- **Backend:** Python (Basics), REST API concepts  
-- **Database:** MySQL (Basics)  
-- **Tools:** Git, GitHub, VS Code  
+I'm a Data Analyst Fresher with hands-on experience working with
+SQL, Advanced Excel, Python, and Power BI to analyze, clean,
+transform, visualize, and interpret data.
 
-### 🚀 What I'm Currently Working On
-- Building frontend projects to strengthen real-world UI development skills  
-- Improving JavaScript and DOM manipulation concepts  
-- Learning best practices for clean and maintainable code  
+I enjoy turning structured datasets into meaningful insights,
+interactive dashboards, and data-driven reports.
 
-### 📌 Projects
-- Job Portal Dashboard (HTML, CSS, JS, jQuery, Bootstrap)
-- E-commerce Product Management System
-- Employee Management System
+---
 
-### 🎯 Career Goal
-To grow as a **Frontend / Software Engineer** by working on real-world projects and contributing to impactful products.
+## 📊 Data Analytics Skills
 
-### 📫 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/pavan-kalyan-1711b43a5/
+- **SQL:** MySQL, Joins, Subqueries, CTEs, Window Functions, Aggregations
+- **Excel:** Pivot Tables, Power Query, XLOOKUP, INDEX-MATCH, Dashboards
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn
+- **Power BI:** Data Cleaning, Data Modeling, DAX, KPI Dashboards
+- **Data Analysis:** Data Cleaning, Data Wrangling, EDA, Data Visualization
+- **Tools:** Git, GitHub, Jupyter Notebook, MySQL Workbench
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Bank Loan Analysis Dashboard
+**Power BI | DAX | Power Query | Excel**
+
+Interactive dashboard analyzing bank loan applications,
+funded amounts, received amounts, interest rates, loan status,
+and borrower characteristics.
+
+### 🗄️ Library Management System
+**MySQL | SQL**
+
+Relational database project analyzing books, members,
+issues, returns, rental prices, availability, and overdue records
+using joins, aggregations, subqueries, and date-based analysis.
+
+### 🏏 IPL Cricket Data Analytics
+**Python | Pandas | NumPy | Matplotlib**
+
+Data analysis project using Python to analyze player performance,
+runs, strike rates, rankings, season comparisons, and team-level
+patterns through data manipulation and visualization.
+
+---
+
+## 💻 Previous Software Development Experience
+
+I also have a foundation in software development and have worked
+with technologies including:
+
+**HTML | CSS | JavaScript | React | Flask | SQL | Git | GitHub**
+
+This background helps me understand applications, databases,
+APIs, and how data moves through software systems.
+
+---
+
+## 🎯 Currently Seeking
+
+I'm currently looking for:
+
+- Data Analyst
+- Junior Data Analyst
+- Business Analyst
+- BI / Reporting Analyst
+- Data Analytics opportunities
+
+Open to entry-level opportunities where I can apply my analytical
+and technical skills while continuing to grow as a Data Analyst.
+
+---
+
+## 📫 Connect With Me
+
+- Email: pavanklyn18@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pavan-kalyan-m-1711b43a5/
+- GitHub: https://github.com/PavanKalyan-18
 - Portfolio: https://pavan-tech-portfolio.vercel.app/
